@@ -9,7 +9,7 @@ plugins:
 
 repository: publiccodenet/jekyll-theme
 
-remote_theme: Lin-Chia-Cheng/publiccodenet.jekyll-theme
+remote_theme: moda-gov-tw/publiccodenet.jekyll-theme
 include:
   - "README.md"
   - "CONTRIBUTING.md"
