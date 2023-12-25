@@ -17,13 +17,11 @@ redirect_from:
 ## 需求規定
 
 * 程式基底的所有文件都「必須」使用英語。
-* 所有[原始碼](../glossary.md#source-code)都「必須」使用英語編寫，其中[政策](../glossary.md#policy)是由機器
-解讀當作程式碼的部分則除外。
+* 所有[原始碼](../glossary.md#source-code)都「必須」使用英語編寫，其中[政策](../glossary.md#policy)是由機器解讀當作程式碼的部分則除外。
 * 任何合捆的政策如果沒有英語版本，則「必須」隨附英語版摘要。
 * 任何翻譯版本皆「必須」跟隨英語版本更新，以維持在最新狀態，反之亦然。
 * 程式基底中「不應該」使用首字母縮字、縮寫、雙關語，或法律/非英語/行業特定詞彙；如果有的話，則需要在這些用語出現之前先行解釋，或是附上解釋該用語的網頁連結。
-* 根據《[網頁內容近用性無障礙指引 2](https://www.w3.org/WAI/WCAG21/quickref/?
-showtechniques=315#readable)》的建議，文件內容「應該」以國中識讀程度為主。
+* 根據《[網頁內容近用性無障礙指引 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable)》的建議，文件內容「應該」以國中識讀程度為主。
 * 「可選擇」是否提供任何程式碼、文件、測試等的翻譯版。
 
 ## 測試方式
@@ -54,9 +52,7 @@ showtechniques=315#readable)》的建議，文件內容「應該」以國中識�
 
 ## 延伸閱讀
 
-* 符合 W3C 全球資訊網協會《[網頁內容近用性無障礙指引 2.1、3.1 之可讀
-性](https://www.w3.org/TR/WCAG21/#readable)》要求，撰寫的文字內容要容易閱讀與理解。
-* 歐盟委員會的《[歐盟無障礙環境命
-令](https://ec.europa.eu/digital-single-market/en/web-accessibility)》，是高度要求無障礙環境
+* 符合 W3C 全球資訊網協會《[網頁內容近用性無障礙指引 2.1、3.1 之可讀性](https://www.w3.org/TR/WCAG21/#readable)》要求，撰寫的文字內容要容易閱讀與理解。
+* 歐盟委員會的《[歐盟無障礙環境命令](https://ec.europa.eu/digital-single-market/en/web-accessibility)》，是高度要求無障礙環境
 的法規範例。
 * 美國總務署《[白話語言定義](https://www.plainlanguage.gov/about/definitions/)》。

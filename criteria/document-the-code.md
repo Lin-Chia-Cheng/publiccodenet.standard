@@ -8,8 +8,7 @@ redirect_from:
 
 # 程式碼要有文件
 
-文件記錄周全的[原始碼](../glossary.md#source-code)能幫助人們瞭解該原始碼的作用與使用方式。文件紀錄是幫助人們快速上手如何使用[程式基
-底](../glossary.md#codebase)，並做出貢獻的關鍵。
+文件記錄周全的[原始碼](../glossary.md#source-code)能幫助人們瞭解該原始碼的作用與使用方式。文件紀錄是幫助人們快速上手如何使用[程式基底](../glossary.md#codebase)，並做出貢獻的關鍵。
 
 ## 需求規定
 

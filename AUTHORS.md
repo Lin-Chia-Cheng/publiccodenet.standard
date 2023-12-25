@@ -24,8 +24,7 @@
 * Johan Groenen，Code For NL
 * Marcus Klaas de Vries
 * Mark van der Net，[阿姆斯特丹市政府](https://www.amsterdam.nl/en/)
-* Martijn de Waal，[阿姆斯特丹應用科技大學 (AUAS)](https://www.amsterdamuas.com/)，數位媒體與創意產業學院，
-戲劇與公民媒體系講師
+* Martijn de Waal，[阿姆斯特丹應用科技大學 (AUAS)](https://www.amsterdamuas.com/)，數位媒體與創意產業學院，戲劇與公民媒體系講師
 * Matti Schneider
 * Mauko Quiroga
 * Maurice Hendriks， 阿姆斯特丹市政府

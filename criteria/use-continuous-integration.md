@@ -12,8 +12,7 @@ redirect_from:
 
 自動化測試所有功能，使人更加信賴貢獻內容發揮其功用且沒有引發任何錯誤，同時讓審查人員專注在貢獻的結構與作法。測試越聚焦，就越容易辨識並瞭解所出現的問題。
 
-以文件記錄程式基底的[持續整合](../glossary.md#continuous-integration)工作流程，能協助貢獻者瞭解對貢獻內容的期待。持續整合讓
-監管[程式基底](../glossary.md#codebase)狀態變得更為簡單。
+以文件記錄程式基底的[持續整合](../glossary.md#continuous-integration)工作流程，能協助貢獻者瞭解對貢獻內容的期待。持續整合讓監管[程式基底](../glossary.md#codebase)狀態變得更為簡單。
 
 ## 需求規定
 
@@ -64,9 +63,6 @@ redirect_from:
 
 ## 延伸閱讀
 
-* Martin Fowler《[什麼是持續整
-合](https://www.martinfowler.com/articles/continuousIntegration.html)》。
-* 英國政府數位服務團《[使用持續交
-付](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)》。
-* 英國政府數位服務團《[品質保證：定期測試您的服
-務](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly)》。
+* Martin Fowler《[什麼是持續整合](https://www.martinfowler.com/articles/continuousIntegration.html)》。
+* 英國政府數位服務團《[使用持續交付](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)》。
+* 英國政府數位服務團《[品質保證：定期測試您的服務](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly)》。

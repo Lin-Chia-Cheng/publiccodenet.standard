@@ -33,8 +33,7 @@ if page.title %}
 ## 社群會議
 
 我們通常在每月第一個週四的 15:00 (CET/CEST) 舉辦社群會議。[議程](https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code)在會議前
-約一週的時間更新。您可以[註冊](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842)
-報名，會再寄送會議通話邀請函給您。
+約一週的時間更新。您可以[註冊](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842)報名，會再寄送會議通話邀請函給您。
 
 ## 其他資源
 

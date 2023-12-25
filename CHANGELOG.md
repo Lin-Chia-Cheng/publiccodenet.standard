@@ -86,8 +86,7 @@
 * 將剩餘 SPDX 標頭加入檔案中。
 * 再稍微修改些文字，讓文字更明確。
 * 更新部分超連結。
-* 將範例移動到《[社群實踐指
-引](https://publiccodenet.github.io/community-implementation-guide-standard/)》。
+* 將範例移動到《[社群實踐指引](https://publiccodenet.github.io/community-implementation-guide-standard/)》。
 
 ## 0.4.0 版
 
@@ -138,8 +137,7 @@
 * 在〈程式碼要可重複使用且可攜〉中強調解決方案部分內容的可重複使用性。
 * 將〈程式碼要可重複使用且可攜〉當中的開發人員與設計師指引，加入部署到專有平台上的內容。
 * 在〈使用白話的英文〉中，加入管理層在面對非英語詞彙時需要做的事的提點。
-* 變更拉取請求流程圖，從業務流程 BPMN 改用 Mermaid，來讓[社群翻
-譯](https://github.com/publiccodenet/community-translations-standard)更容易。
+* 變更拉取請求流程圖，從業務流程 BPMN 改用 Mermaid，來讓[社群翻譯](https://github.com/publiccodenet/community-translations-standard)更容易。
 * 將 Maurice Hendriks 加入作者群。
 * 將「OpenApi 規格」加入延伸閱讀。
 * 將延伸閱讀小節的特性變得更明確。
@@ -247,5 +245,4 @@
 * 14 項準則，有各自的規定，以及相關的實施方式。
 * 精要的背景介紹，例如本標準是什麼，以及 Foundation for Public Code 如何使用此標準。
 
-最初的版本是由阿姆斯特丹應用科學大學、阿姆斯特丹市政府，以及本基金會合作撰寫，取自 [Smart Cities? Public Code! 專
-案](https://smartcities.publiccode.net/) 的部分內容。
+最初的版本是由阿姆斯特丹應用科學大學、阿姆斯特丹市政府，以及本基金會合作撰寫，取自 [Smart Cities? Public Code! 專案](https://smartcities.publiccode.net/) 的部分內容。

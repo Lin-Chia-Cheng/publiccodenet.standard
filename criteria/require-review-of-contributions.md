@@ -10,11 +10,9 @@ redirect_from:
 
 同儕審查貢獻是[原始碼](../glossary.md#source-code)提升品質的關鍵，也能降低安全性風險與營運風險。
 
-要求仔細審查貢獻，能孕育出確保貢獻都是優質、完整且能帶來價值的文化。審查原始碼能提高在原始碼加入[程式基底](../glossary.md#codebase)之前，
-就發現與修正潛在臭蟲與出錯的機率。得知所有原始碼都會被審查，就不會孕育出習慣怪罪他人的文化，反倒是鼓勵每個人都專注在解決方案上。
+要求仔細審查貢獻，能孕育出確保貢獻都是優質、完整且能帶來價值的文化。審查原始碼能提高在原始碼加入[程式基底](../glossary.md#codebase)之前，就發現與修正潛在臭蟲與出錯的機率。得知所有原始碼都會被審查，就不會孕育出習慣怪罪他人的文化，反倒是鼓勵每個人都專注在解決方案上。
 
-快速審查[政策](../glossary.md#policy)在於向貢獻者保證，必定在一段時間內提供意見回饋或是協作式改善，進而提高貢獻者交付貢獻內容的頻率，以及參
-與的熱度。
+快速審查[政策](../glossary.md#policy)在於向貢獻者保證，必定在一段時間內提供意見回饋或是協作式改善，進而提高貢獻者交付貢獻內容的頻率，以及參與的熱度。
 
 ## 需求規定
 
@@ -58,13 +56,7 @@ redirect_from:
 
 ## 延伸閱讀
 
-* 英國政府數位服務團《[英國政府數位服務團程式碼審查程
-序](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content)》。
-* [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches)
-與
-[GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/) 平
-臺的分支保護說明。
-* Sage Sharp《[程式修補審查的和善藝
-術](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)》。
-* Mozilla《[參與度評測成
-果](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)》。
+* 英國政府數位服務團《[英國政府數位服務團程式碼審查程序](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content)》。
+* [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches)與[GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/) 平臺的分支保護說明。
+* Sage Sharp《[程式修補審查的和善藝術](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)》。
+* Mozilla《[參與度評測成果](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)》。
