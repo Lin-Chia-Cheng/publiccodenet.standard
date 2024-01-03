@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-30 22:44+0800\n"
-"PO-Revision-Date: 2023-12-25 10:15+0000\n"
-"Last-Translator: Weblate Admin <ru8tp6@steps.com.tw>\n"
+"PO-Revision-Date: 2024-01-03 04:08+0000\n"
+"Last-Translator: Winnie <winnie@steps.com.tw>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/standard-for-public-code/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -249,7 +249,7 @@ msgstr "原先專注在貢獻內容是否遵循標準，現在則改為注重貢
 
 #: ./CHANGELOG.md:block 7 (unordered list)
 msgid "Relaxed MUST requirements to SHOULD in Make the codebase findable."
-msgstr "將〈程式基底可查詢得到〉中許多「必須」等級的規定，調降為「應該」等級。"
+msgstr "將程式基底可查詢得到中許多「必須」等級的規定，調降為「應該」等級。"
 
 #: ./CHANGELOG.md:block 7 (unordered list)
 msgid "Review template now in HTML format."
@@ -282,19 +282,19 @@ msgstr "2023年4月20日：🔀第十四版草稿新增可移植性與測試的�
 msgid ""
 "New requirement in Create reusable and portable code about the development "
 "being a collaboration between multiple parties."
-msgstr "新增規定，在〈程式碼要可重複使用且可攜〉加入多方協作開發的內容。"
+msgstr "新增規定，在程式碼要可重複使用且可攜加入多方協作開發的內容。"
 
 #: ./CHANGELOG.md:block 10 (unordered list)
 msgid ""
 "New requirement in Create reusable and portable code about being dependent "
 "on a single vendor."
-msgstr "新增規定，在〈程式碼要可重複使用且可攜〉中加入依賴單一供應商的內容。"
+msgstr "新增規定，在程式碼要可重複使用且可攜中加入依賴單一供應商的內容。"
 
 #: ./CHANGELOG.md:block 10 (unordered list)
 msgid ""
 "New requirement in Use continuous integration about publishing results for "
 "automated tests."
-msgstr "新增規定，在〈使用持續整合〉中加入要發布自動化測試結果的內容。"
+msgstr "新增規定，在使用持續整合中加入要發布自動化測試結果的內容。"
 
 #: ./CHANGELOG.md:block 10 (unordered list)
 msgid ""
@@ -405,13 +405,13 @@ msgstr "調整程式碼撰寫風格要求，專注於程式基底上，而非貢
 msgid ""
 "Moved requirement for codebase names to Make the codebase findable from Use "
 "plain English."
-msgstr "將程式基底名稱規定，從〈使用白話的英文〉移到〈程式基底可查詢得到〉。"
+msgstr "將程式基底名稱規定，從使用白話的英文移到程式基底可查詢得到。"
 
 #: ./CHANGELOG.md:block 13 (unordered list)
 msgid ""
 "Moved requirement about testing the code by using examples to Use continuous"
 " integration from Document the code."
-msgstr "將測試程式碼的規定，從〈程式碼要有文件〉移到〈使用持續整合〉。"
+msgstr "將測試程式碼的規定，從程式碼要有文件移到使用持續整合。"
 
 #: ./CHANGELOG.md:block 13 (unordered list)
 msgid ""
@@ -515,7 +515,7 @@ msgstr "改善多數準則的「測試方式」小節。"
 msgid ""
 "New requirement in Welcome contributors about publishing activity "
 "statistics."
-msgstr "在〈歡迎貢獻者〉中加入發布活動統計的新規定。"
+msgstr "在歡迎貢獻者中加入發布活動統計的新規定。"
 
 #: ./CHANGELOG.md:block 19 (unordered list)
 msgid "Removed redundant requirement about portable and reusable code."
@@ -604,7 +604,7 @@ msgstr "2022年5月23日：🗎第十版草稿加強文件紀錄與在地化內�
 msgid ""
 "Requirement for localization made explicit in Create reusable and portable "
 "code."
-msgstr "在〈程式碼要可重複使用且可攜〉中定下明確的在地化規定。"
+msgstr "在程式碼要可重複使用且可攜中定下明確的在地化規定。"
 
 #: ./CHANGELOG.md:block 22 (unordered list)
 msgid "Documentation of governance changed from a SHOULD to a MUST."
@@ -645,40 +645,39 @@ msgid ""
 "Relax the criterion Use plain English by adding a new requirement allows "
 "bundled policy not available in English to have an accompanying summary in "
 "English instead of translating the full text."
-msgstr "放寬〈使用白話的英文〉準則，加入新規定，允許合捆的政策內文如果沒有英文版，只"
-"需要加入英文版摘要，而不用翻譯全文。"
+msgstr "放寬使用白話的英文準則，加入新規定，允許合捆的政策內文如果沒有英文版，只需要"
+"加入英文版摘要，而不用翻譯全文。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
 "Similarly, allow for English summaries for policies not available in English"
 " in Bundle policy and code."
-msgstr "同樣地，在〈政策與原始碼要合捆〉中，沒有英文版的政策內文可允許提供英文版摘要"
-"。"
+msgstr "同樣地，在政策與原始碼要合捆中，沒有英文版的政策內文可允許提供英文版摘要。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
 "Clarify that term 'policy' includes processes which impact development and "
 "deployment in Bundle policy and code."
-msgstr "釐清〈政策與原始碼要合捆〉中，「政策」包含能影響開發與部署的流程。"
+msgstr "釐清政策與原始碼要合捆中，「政策」包含能影響開發與部署的流程。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
 "Emphasize reusability also on parts of the solutions in Create reusable and "
 "portable code."
-msgstr "在〈程式碼要可重複使用且可攜〉中強調解決方案部分內容的可重複使用性。"
+msgstr "在程式碼要可重複使用且可攜中強調解決方案部分內容的可重複使用性。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
 "Expand guidance to Developers and designers in Create reusable and portable "
 "code about deploying to proprietary platforms."
-msgstr "將〈程式碼要可重複使用且可攜〉當中的開發人員與設計師指引，加入部署到專有平台"
-"上的內容。"
+msgstr "將程式碼要可重複使用且可攜當中的開發人員與設計師指引，加入部署到專有平台上的"
+"內容。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
 "Add nuance to use of non-English terms in what management need to do in Use "
 "plain English."
-msgstr "在〈使用白話的英文〉中，加入管理層在面對非英語詞彙時需要做的事的提點。"
+msgstr "在使用白話的英文中，加入管理層在面對非英語詞彙時需要做的事的提點。"
 
 #: ./CHANGELOG.md:block 25 (unordered list)
 msgid ""
@@ -723,11 +722,11 @@ msgstr "在「所有程式碼都必須使用英語編寫」規定中，雖然政
 msgid ""
 "Add MAY requirement regarding committer email addresses in Maintain version "
 "control."
-msgstr "在〈維護版本控制〉中，新增與送交者電子郵件相關的「得以」規定。"
+msgstr "在維護版本控制中，新增與送交者電子郵件相關的「得以」規定。"
 
 #: ./CHANGELOG.md:block 28 (unordered list)
 msgid "Expand guidance to Policy Makers in Bundle policy and code."
-msgstr "將政策制定者加入〈政策與原始碼要合捆〉指引中。"
+msgstr "將政策制定者加入政策與原始碼要合捆指引中。"
 
 #: ./CHANGELOG.md:block 28 (unordered list)
 msgid "Expand guidance to Developers and designers in Use a coherent style."
@@ -849,13 +848,13 @@ msgstr "2020年10月26日：🎊第六版草稿拆分出一項新規定並且釐
 msgid ""
 "Split \"Welcome contributions\" criterion into \"Make contributing easy\" "
 "and \"Welcome contributors\"."
-msgstr "將〈歡迎貢獻〉準則拆分為〈貢獻要容易〉以及〈歡迎貢獻者〉。"
+msgstr "將歡迎貢獻準則拆分為貢獻要容易以及歡迎貢獻者。"
 
 #: ./CHANGELOG.md:block 34 (unordered list)
 msgid ""
 "Rename criterion \"Pay attention to codebase maturity\" to \"Document "
 "codebase maturity\"."
-msgstr "將〈注意程式基底成熟度〉準則改名為〈記錄程式基底成熟度〉。"
+msgstr "將\"注意程式基底成熟度\"準則改名為\"記錄程式基底成熟度\"。"
 
 #: ./CHANGELOG.md:block 34 (unordered list)
 msgid ""
@@ -1749,7 +1748,7 @@ msgstr ""
 "本標準採用 CC0 "
 "公眾領域貢獻宣告[給予授權](LICENSE)，該授權範圍涵蓋所有插圖與文件。CC0 代表任"
 "何人都能任意使用這些內容。如果您是貢獻者，代表您也將這些權利賦予他人。若要進"
-"一步瞭解如何協助本專案，請參閱〈[貢獻指引](CONTRIBUTING.md)〉。"
+"一步瞭解如何協助本專案，請參閱[貢獻指引](CONTRIBUTING.md)。"
 
 #: ./criteria/bundle-policy-and-source-code.md:block 3 (paragraph)
 msgid "order: 2 redirect_from:"
@@ -2347,8 +2346,8 @@ msgid ""
 "supporting policy documents added to meet the [Bundle policy and source "
 "code](bundle-policy-and-source-code.md) criterion."
 msgstr ""
-"確保所有程式基底目標，有連結或引用為了符合〈[政策與原始碼要合捆](bundle-"
-"policy-and-source-code.md)〉準則而加入的支持政策文件。"
+"確保所有程式基底目標，有連結或引用為了符合[政策與原始碼要合捆](bundle-policy-"
+"and-source-code.md)準則而加入的支持政策文件。"
 
 #: ./criteria/document-codebase-objectives.md:block 14 (unordered list)
 msgid ""
@@ -4131,8 +4130,8 @@ msgstr "如果政策文件未能通過測試，請快速修正。"
 msgid ""
 "Make sure the source code reflects any changes to the policy (see [Maintain "
 "version control](maintain-version-control.md))."
-msgstr "確保原始碼能反映出政策的任何變動（請參閱〈[維護版本控制](maintain-version-"
-"control.md)〉）。"
+msgstr "確保原始碼能反映出政策的任何變動（請參閱[維護版本控制](maintain-version-"
+"control.md)）。"
 
 #: ./criteria/use-continuous-integration.md:block 16 (unordered list)
 msgid ""
@@ -5599,7 +5598,7 @@ msgstr "參與我們"
 msgid ""
 "This standard is a living document. [Read our contributor "
 "guide](/CONTRIBUTING.md) to learn how you can make it better."
-msgstr "本標準是持續成長的文件。[請讀我們的〈貢獻者指引〉](/CONTRIBUTING."
+msgstr "本標準是持續成長的文件。[請讀我們的貢獻者指引](/CONTRIBUTING."
 "md)，瞭解您可以怎麼做來讓本標準變得更好。"
 
 #: ./foreword.md:block 66 (header)
@@ -6210,7 +6209,7 @@ msgstr "2023/07/31: 💄 第十六版草稿修改準則名稱，並釐清程式 
 msgid ""
 "The criterion \"Make the codebase reusable and portable\" was renamed from "
 "\"Create reusable and portable code\"."
-msgstr "〈程式碼要可重複使用且可攜〉準則改名為〈程式基底要可重複使用且可移植〉。"
+msgstr "\"程式碼要可重複使用且可攜\"準則改名為\"程式基底要可重複使用且可移植\"。"
 
 msgid "Added a glossary entry for \"Source Code\"."
 msgstr "新增詞彙條目「原始碼」。"
@@ -6227,13 +6226,12 @@ msgid "Minor changes to clarify \"code\" vs \"codebase\"."
 msgstr "細微修改以清楚區分「程式碼」與「程式基底」。"
 
 msgid "Simplify guidance to policy makers in Bundle policy and source code."
-msgstr "簡化給政策制定者在〈政策與原始碼要合捆〉中的指引。"
+msgstr "簡化給政策制定者在政策與原始碼要合捆中的指引。"
 
 msgid ""
 "Clarify How to test sections of Make the codebase findable and Make the "
 "codebase reusable and portable."
-msgstr "釐清〈程式基底可查詢得到〉與〈程式基底要可重複使用且可移植〉的「測試方式」小"
-"節。"
+msgstr "釐清程式基底可查詢得到與程式基底要可重複使用且可移植的「測試方式」小節。"
 
 msgid "Add a criteria and requirements checklist to the release artifacts."
 msgstr "在發行成品前的要求中，加入準則與需求規定檢查清單。"
