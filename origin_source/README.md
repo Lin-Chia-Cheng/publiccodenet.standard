@@ -108,4 +108,4 @@ You can read more about how to help in the [contributing guide](CONTRIBUTING.md)
 
 ## 軟體中文化
 
-本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 [Wiki](https://github.com/moda-gov-tw/publiccodenet.standard/wiki)。
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考[Wiki](https://github.com/moda-gov-tw/publiccodenet.standard/wiki)。
