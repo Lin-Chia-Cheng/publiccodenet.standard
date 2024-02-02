@@ -5,7 +5,8 @@ order: 14
 redirect_from:
   - criteria/findability
 ---
-# 代碼庫可查詢得到
+
+# Make the codebase findable
 
 The more findable a [codebase](../glossary.md#codebase) is, the more potential new collaborators will find it.
 Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
@@ -13,7 +14,7 @@ Just publishing a codebase and hoping it is found does not work, instead proacti
 A metadata description file increases discoverability.
 Well-written metadata containing a unique and persistent identifier, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
 
-## 需求規範
+## Requirements
 
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * The codebase SHOULD have a short description that helps someone understand what the codebase is for or what it does.
@@ -54,7 +55,7 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 * Budget for content design and Search Engine Optimization skills in the team.
 * Make sure people involved in the project present at relevant conferences.
 
-## 開發人員與設計師：需要的工作
+## Developers and designers: what you need to do
 
 * Search engine optimization, for instance adding a [sitemap](https://www.sitemaps.org/protocol.html).
 * Use the short description wherever the codebase is referenced, for instance, as the repository description.

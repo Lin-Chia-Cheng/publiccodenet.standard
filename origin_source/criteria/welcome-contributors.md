@@ -5,15 +5,14 @@ order: 4
 redirect_from:
   - criteria/open-to-contributions
 ---
-
-# 歡迎貢獻者
+# Welcome contributors
 
 The atmosphere in a [codebase](../glossary.md#codebase) community helps users decide to use one codebase over another.
 Welcoming anyone as a contributor enables the community to grow and sustain itself over time.
 A community where contributors have clear ways to influence codebase and community goals and progress is less likely to split and end up in diverging communities.
 Newcomers need to understand and trust the codebase community’s governance.
 
-## 需求規範
+## Requirements
 
 * The codebase MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file.
@@ -37,8 +36,8 @@ Newcomers need to understand and trust the codebase community’s governance.
 
 ## Public policy makers: what you need to do
 
-* 為代碼庫加入其他資源的清單，而這些資源可幫助[政策](../glossary.md#policy)專家、非政府組織、學者等，更能瞭解或可重複利用您的政策。
-* 考慮放入聯絡資訊，讓其他考慮合作的政策制定者能徵詢您的意見。
+* Add a list to the codebase of any other resources that [policy](../glossary.md#policy) experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
+* Consider adding contact details so that other policy makers considering collaboration can ask you for advice.
 
 ## Managers: what you need to do
 
@@ -56,9 +55,9 @@ Newcomers need to understand and trust the codebase community’s governance.
 * Keep your managers informed of the time and resources you require to support other contributors.
 * Communicate clearly to contributors what they need to do make sure their contribution can be integrated.
 
-## 延伸閱讀
+## Further reading
 
-* 開放原始碼指南所提供的《[營造友善的社群](https://opensource.guide/building-community/)》。
-* Mike McQuaid《[開放原始碼貢獻者瓶頸](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)》。
-* 開放原始碼指南為成長中的[開放原始碼](../glossary.md#open-source)社群專案所寫的《[領導與治理](https://opensource.guide/leadership-and-governance/)》。
-* Pieter Hintjens《[打造網路社群](http://hintjens.com/blog:117)》(長篇文章！)。
+* [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides.
+* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) by Mike McQuaid.
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing [open source](../glossary.md#open-source) community projects, by Open Source Guides.
+* [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).

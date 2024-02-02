@@ -5,14 +5,13 @@ order: 11
 redirect_from:
   - criteria/open-standards
 ---
-
-# 採用開放標準
+# Use open standards
 
 [Open standards](../glossary.md#open-standard) guarantee access to the knowledge required to use and contribute to the [codebase](../glossary.md#codebase).
 They enable interoperability between systems and reduce the risk of vendor lock-in.
 Open standards which are unambiguous allow for independent development of either side of data exchange.
 
-## 需求規範
+## Requirements
 
 * For features of the codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * Any non-open standards used MUST be recorded clearly as such in the documentation.
@@ -22,27 +21,26 @@ Open standards which are unambiguous allow for independent development of either
 * Open standards that are machine testable SHOULD be preferred over open standards that are not.
 * Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.
 
-## 測試方式
+## How to test
 
-* 確認資料交換遵守 OSI 開放原始碼促進會批准的開放標準。
-* 確認若有採用任何的非開放標準，皆有清楚記錄在文件中。
-* 確認文件有清單列出代碼庫所採用的標準，其中各標準有對應的有效連結；或沒有採用任何標準時，則留下聲明。
+* Confirm that data exchange follows an OSI approved open standard.
+* Confirm that any non-open standards used are clearly documented as such.
+* Confirm that documentation includes a list of the standards followed within the codebase, each with a working link, or a statement that no standards were chosen.
 
 ## Public policy makers: what you need to do
 
-* 以政策要求盡可能在任何情況下使用開放標準。
-* 禁止採購不採用開放標準的技術科技。
+* Mandate use of open standards everywhere possible.
+* Prohibit procurement of technology that does not use open standards.
 
 ## Managers: what you need to do
 
 * Consider including open standard compliance assessment in [source code](../glossary.md#source-code) reviews.
 
-## 開發人員與設計師：需要的工作
+## Developers and designers: what you need to do
 
-* 將是否依循標準加入[持續整合](../glossary.md#continuous-integration)測試中。
-* 審查提交紀錄與其他[儲存庫](../glossary.md#repository)資源是否有參考開放標準，並交叉檢查其中有列出標準的部分。
+* Add [continuous integration](../glossary.md#continuous-integration) tests for compliance with the standards.
+* Review the commits and other [repository](../glossary.md#repository) resources for references to standards and cross-check those with the standards listed.
 
-## 延伸閱讀
+## Further reading
 
-* 英國內閣辦公室發表的《[開放標準原則](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)》
-[政策](../glossary.md#policy)報告。
+* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), [policy](../glossary.md#policy) paper of the UK Cabinet Office.

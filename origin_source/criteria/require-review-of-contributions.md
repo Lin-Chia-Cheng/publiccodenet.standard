@@ -5,8 +5,7 @@ order: 7
 redirect_from:
   - criteria/require-review
 ---
-
-# 要求審查貢獻內容
+# Require review of contributions
 
 Peer-review of contributions is essential for [source code](../glossary.md#source-code) quality, reducing security risks and operational risks.
 
@@ -16,7 +15,7 @@ Knowing that all source code was reviewed discourages a culture of blaming indiv
 
 A [policy](../glossary.md#policy) of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement, which increases both rate of delivery and contributor engagement.
 
-## 需求規範
+## Requirements
 
 * All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
 * Reviews MUST include source, policy, tests and documentation.
@@ -51,12 +50,12 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Create a culture where all contributions are welcome and everyone is empowered to review them.
 * Make sure no contributor is ever alone in contributing to a codebase.
 
-## 開發人員與設計師：需要的工作
+## Developers and designers: what you need to do
 
 * Ask other contributors on the codebase to review your work, in your organization or outside of it.
 * Try to respond to others' requests for review promptly, initially providing feedback about the concept of the change.
 
-## 延伸閱讀
+## Further reading
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
 * Branch protection on [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).

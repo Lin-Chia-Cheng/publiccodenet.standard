@@ -5,14 +5,13 @@ order: 6
 redirect_from:
   - criteria/version-control-and-history
 ---
-
-# 維護版本控制
+# Maintain version control
 
 [Version control](../glossary.md#version-control) means keeping track of changes to the [source code](../glossary.md#source-code) and other files of the [codebase](../glossary.md#codebase) over time.
 This allows you to maintain structured documentation of the history of the codebase.
 This is essential for collaboration at scale, as it enables developers to work on changes in parallel and helps future developers to understand the reasons for changes.
 
-## 需求規範
+## Requirements
 
 * All files in the codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
@@ -25,27 +24,27 @@ This is essential for collaboration at scale, as it enables developers to work o
 
 ## How to test
 
-* 確認代碼庫維持在版本控制狀態中，像是使用 Git 之類的軟體。
-* 審查提交內容歷史紀錄，確認所有的提交訊息皆有解釋之前程式碼修改變動的原因。
-* 審查提交內容歷史紀錄，確認所有提交訊息之中，盡可能在所有討論過修改變更的地方，包含變動內容以及連結位置（提供網址）。
-* 檢查版本控制系統是否為分散式。
-* 審查提交內容歷史紀錄，檢查是否有根據貢獻指南將相關的程式碼變動以群組分類。
-* 檢查是否可能透過像是修訂版次標記，或文字標籤，來存取代碼庫中的特定版本。
-* 檢查代碼庫在可能的情況下，檔案都是採用文字格式。
+* Confirm that the codebase is kept in version control using software such as Git.
+* Review the commit history, confirming that all commit messages explain why the change was made.
+* Review the commit history, confirming that where possible all commit messages include the discussion about the change was or where to find it (with a URL).
+* Check if the version control system is distributed.
+* Review the commit history, check if grouping of relevant changes in accordance with the contributing guidelines.
+* Check that it is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
+* Check that the file formats used in the codebase are text formats where possible.
 
 ## Public policy makers: what you need to do
 
-* 如果因為[政策](../glossary.md#policy)改變而在代碼庫中有新的版本，則請確認有在文件中清楚說明：
-   * 政策改變的地方，
-   * 代碼庫如何因應而改變。
+* If a new version of the codebase is created because of a [policy](../glossary.md#policy) change, make sure it's clear in the documentation:
+  * what the policy change is,
+  * how it's changed the codebase.
 
-舉例來說，在做權限管理賦予取用權的代碼庫中，如果要新增申請方類別，就會視為政策變動。
+For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
 ## Managers: what you need to do
 
-* 支持政策制定者、開發人員與設計師，使其能清楚表達他們對代碼庫做出的改善。確保改善代碼庫不會有公關風險。
+* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase. Making improvements isn't a public relations risk.
 
-## 開發人員與設計師：需要的工作
+## Developers and designers: what you need to do
 
 * Make sure that all files required to understand the code, build and deploy are in the version control system.
 * Write clear commit messages so that it is easy to understand why the commit was made.
@@ -53,7 +52,7 @@ This is essential for collaboration at scale, as it enables developers to work o
 * Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
 
-## 延伸閱讀
+## Further reading
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
